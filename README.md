@@ -37,7 +37,7 @@ pip install linode-mcp
 ### Using uv
 ```bash
 uvx pip install linode-mcp
-uvx --from linode-mcp linode-mcp --api-key $LINODE_API_KEY
+uvx linode-mcp --api-key $LINODE_API_KEY
 ```
 
 ### From Source
